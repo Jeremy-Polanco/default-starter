@@ -1,1 +1,1 @@
-This proyect contains usefull a reusable css variables, and structure to use in future proyects.
+This proyect contains useful and reusable css variables, and structure to use in future proyects.
